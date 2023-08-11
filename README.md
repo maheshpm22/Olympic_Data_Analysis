@@ -12,8 +12,7 @@ Note
   { If you have windows system, you can use **OracleVM** and install ubuntu distribution on it. Learn about operating linux systems and get comfortable with it, then you are good to go.  }
 
 2. Some features of dashboard might not work of chrome browser(mobile) <br />
-   {  
-   Other browser like Microsoft Edge, brave-browser, Mozilla firefox supports all features 
+   {  Other browser like Microsoft Edge, brave-browser, Mozilla firefox supports all features 
    }
 
 
