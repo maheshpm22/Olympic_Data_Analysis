@@ -1,6 +1,6 @@
-# olympics-data-analysis-web-app
-A Streamlit web application for the analysis of olympics dataset
+# Olymipic_Data_Analysis 
 
-Dataset Link: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
+Data set is taken from kaggle website available at this link : 
+"[link]""(https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)"
 
-Live Demo: https://oda-campusx.herokuapp.com/
+Dashboard link : 
