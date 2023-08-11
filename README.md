@@ -5,9 +5,16 @@ Data set is taken from kaggle website available at this
 
 Dashboard link : https://olympicdataanalysis.azurewebsites.net/
 
-Note: The code present in the repository will work on **ubuntu/linux** machines only and not on **windows** systems. Necessary changes needs to be done as the same library/functions works a bit different in both distributions. I will update the windows version also soon on my github account. 
+ 
+Note {Solution}: 
+1. The code present in the repository will work on **ubuntu/linux** machines only and not on **windows** systems. Necessary changes needs to be done as the same library/functions works a bit different in both distributions. I will update the windows version also soon on my github account. 
+  {
+  If you have windows system, you can use **OracleVM** and install ubuntu distribution on it. Learn about operating linux systems and get comfortable with it, then you are good to go. 
+  }
 
-Solution : If you have windows system, you can use **OracleVM** and install ubuntu distribution on it. Learn about operating linux systems and get comfortable with it, then you are good to go. 
-
+2. Some features of dashboard might not work of chrome browser(mobile) 
+   {
+   Other browser like Microsoft Edge, brave-browser, Mozilla firefox supports all features
+   }
 
 
